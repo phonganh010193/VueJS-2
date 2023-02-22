@@ -1,0 +1,32 @@
+[
+    {
+        "firstName": "Phong",
+        "lastName": "Anh",
+        "info": {
+            "address":"Dong Quang",
+            "age":30,
+            "phoneNumber": "0379010193"
+        },
+        "published": true
+    },
+    {
+        "firstName": "Pham",
+        "lastName": "Phu",
+        "info": {
+            "address":"Ha noi",
+            "age":27,
+            "phoneNumber":"0903456900"
+        },
+        "published": true
+    },
+    {
+        "firstName": "Anh",
+        "lastName": "Thu",
+        "info": {
+            "address":"Quang Minh",
+            "age":31,
+            "phoneNumber":"0366360663"
+        },
+        "published": false
+    }
+]
